@@ -8,12 +8,8 @@ Usage
 
 This is a self contained Colab script-there are no requirements for your local environment 
 If you are using a custom dataset, ensure that the files are found in the following folder structure on Google Drive: 
---My Drive
-  --dcgan
-    --animeface-character-dataset
-      --data
-          --img001.png
-          ...
+
+My Drive>DCGAN>animeface-character-dataset>data>[img001.png, ...]
 
 
 Credits
